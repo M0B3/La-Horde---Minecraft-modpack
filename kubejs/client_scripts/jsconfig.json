@@ -1,4 +1,7 @@
 {
+    "include": [
+        "./**/*.js"
+    ],
     "compilerOptions": {
         "skipDefaultLibCheck": true,
         "types": [
@@ -19,8 +22,5 @@
         "incremental": true,
         "allowJs": true,
         "target": "ES2015"
-    },
-    "include": [
-        "./**/*.js"
-    ]
+    }
 }

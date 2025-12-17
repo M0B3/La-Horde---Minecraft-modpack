@@ -37,12 +37,12 @@
   },
   "modHash": {
     "$default": -1,
-    "$value": 5772481512224399836,
+    "$value": -6440924488143531311,
     "$comment": "internal config, used for tracking mod update and modlist change"
   },
   "registryHash": {
     "$default": -1,
-    "$value": 8373497291377941223,
+    "$value": -4135764012176734164,
     "$comment": "internal config, used for tracking registry change"
   },
   "isolatedScopes": {

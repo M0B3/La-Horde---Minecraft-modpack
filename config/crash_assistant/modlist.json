@@ -1281,6 +1281,20 @@
     "curseForgeHash": 940772176,
     "modrinthHash": "d1a755de84ee5d8910ff1e65e815473056e93ece"
   },
+  "lootintegration_townsandtowers-1.2.jar": {
+    "jarName": "lootintegration_townsandtowers-1.2.jar",
+    "modId": "lootintegration_townsandtowers",
+    "version": "1",
+    "curseForgeHash": 1330872268,
+    "modrinthHash": "40a9dae72bea66685f15c8d2b24eb757074ac524"
+  },
+  "lootintegration_wda-1.6.jar": {
+    "jarName": "lootintegration_wda-1.6.jar",
+    "modId": "lootintegration_wda",
+    "version": "1",
+    "curseForgeHash": 1717161842,
+    "modrinthHash": "46c94dae90118644cbe7e018ffe7ae4d1a1a8fab"
+  },
   "lootintegrations-1.20.1-4.7.jar": {
     "jarName": "lootintegrations-1.20.1-4.7.jar",
     "modId": "lootintegrations",
@@ -1288,12 +1302,96 @@
     "curseForgeHash": 3552897390,
     "modrinthHash": "2aa541075b8e13480db4a8021482fbffb2132337"
   },
+  "lootintegrations_betterarcheology-1.2.jar": {
+    "jarName": "lootintegrations_betterarcheology-1.2.jar",
+    "modId": "lootintegrations_betterarcheology",
+    "version": "1",
+    "curseForgeHash": 1629010718,
+    "modrinthHash": "3f4b21264d80964e94d58c5d39133b4381792d89"
+  },
+  "lootintegrations_cataclysm-1.1.jar": {
+    "jarName": "lootintegrations_cataclysm-1.1.jar",
+    "modId": "lootintegrations_cataclysm",
+    "version": "1",
+    "curseForgeHash": 2285567459,
+    "modrinthHash": "655c9bdb3477736d81afb6b8bd234b18f494a8c4"
+  },
+  "lootintegrations_dungeoncrawl-1.1.jar": {
+    "jarName": "lootintegrations_dungeoncrawl-1.1.jar",
+    "modId": "lootintegrations_dungeoncrawl",
+    "version": "1",
+    "curseForgeHash": 3700361512,
+    "modrinthHash": "416479a9d425e3f9a9090cdd7fbd15e5468ab99e"
+  },
+  "lootintegrations_dungeonsplus-1.1.jar": {
+    "jarName": "lootintegrations_dungeonsplus-1.1.jar",
+    "modId": "lootintegrations_dungeonsplus",
+    "version": "1",
+    "curseForgeHash": 1259021858,
+    "modrinthHash": "cc9294cb0c49ac8cf4d4ba85a91b34c2e59f477b"
+  },
+  "lootintegrations_graveyard-1.1.jar": {
+    "jarName": "lootintegrations_graveyard-1.1.jar",
+    "modId": "lootintegrations_graveyard",
+    "version": "1",
+    "curseForgeHash": 968058116,
+    "modrinthHash": "3cf27e80f14f3bf295273b04c09a5179486164d3"
+  },
+  "lootintegrations_iceandfire-1.1.jar": {
+    "jarName": "lootintegrations_iceandfire-1.1.jar",
+    "modId": "lootintegrations_iceandfire",
+    "version": "1.1",
+    "curseForgeHash": 511368092,
+    "modrinthHash": "fb74fb2bcb70b47a061ae4a263462bdcbf73ab85"
+  },
+  "lootintegrations_integrated-1.4.jar": {
+    "jarName": "lootintegrations_integrated-1.4.jar",
+    "modId": "lootintegrations_integrated",
+    "version": "1",
+    "curseForgeHash": 2545086159,
+    "modrinthHash": "effc37b725aa0b1e5a67814718b2012161ac1b2b"
+  },
+  "lootintegrations_lootintegrations_bygonepillage-1.2.jar": {
+    "jarName": "lootintegrations_lootintegrations_bygonepillage-1.2.jar",
+    "modId": "lootintegrations_bygonepillage",
+    "version": "1",
+    "curseForgeHash": 4058262184,
+    "modrinthHash": "5e8ccc101bd391fbb283ad111be9f68c93d3352a"
+  },
+  "lootintegrations_moog-1.6.jar": {
+    "jarName": "lootintegrations_moog-1.6.jar",
+    "modId": "lootintegrations_moog",
+    "version": "1",
+    "curseForgeHash": 1091814977,
+    "modrinthHash": "9e7f9bcc709910976b20c3a475bbe982232a0659"
+  },
+  "lootintegrations_mostructures-1.2.jar": {
+    "jarName": "lootintegrations_mostructures-1.2.jar",
+    "modId": "lootintegrations_mostructures",
+    "version": "1",
+    "curseForgeHash": 632586879,
+    "modrinthHash": "340a57d3125c4803e5de96c8ae6e3847b1d3a213"
+  },
+  "lootintegrations_structory-1.3.jar": {
+    "jarName": "lootintegrations_structory-1.3.jar",
+    "modId": "lootintegrations_structory",
+    "version": "1",
+    "curseForgeHash": 4228690452,
+    "modrinthHash": "a90065dd5fbca3fd40eb3e14745f39b2c24e0d11"
+  },
   "lootintegrations_vanilla-1.4.jar": {
     "jarName": "lootintegrations_vanilla-1.4.jar",
     "modId": "lootintegrations_vanilla",
     "version": "1",
     "curseForgeHash": 1532405332,
     "modrinthHash": "52099022d60b9f690073fc5d126f61d9e6a639a6"
+  },
+  "lootintegrations_yungs-1.4.jar": {
+    "jarName": "lootintegrations_yungs-1.4.jar",
+    "modId": "lootintegrations_yungs",
+    "version": "1",
+    "curseForgeHash": 3283249474,
+    "modrinthHash": "e4171447d6924edf0450bd0614a271798be0ef01"
   },
   "lootr-forge-1.20-0.7.35.94.jar": {
     "jarName": "lootr-forge-1.20-0.7.35.94.jar",
@@ -2142,12 +2240,12 @@
     "curseForgeHash": 840314760,
     "modrinthHash": "09f6f51ca100df875ea5fa2d4fc0c46de4221c66"
   },
-  "voicechat-forge-1.20.1-2.6.8.jar": {
-    "jarName": "voicechat-forge-1.20.1-2.6.8.jar",
+  "voicechat-forge-1.20.1-2.6.9.jar": {
+    "jarName": "voicechat-forge-1.20.1-2.6.9.jar",
     "modId": "voicechat",
-    "version": "1.20.1-2.6.8",
-    "curseForgeHash": 1328899865,
-    "modrinthHash": "0c1f23396af11432ef5b53846e7cf96baa6d9210"
+    "version": "1.20.1-2.6.9",
+    "curseForgeHash": 1970636750,
+    "modrinthHash": "e99b31ace18d92e6f6a17540d2dd193c173e7612"
   },
   "watut-forge-1.20.1-1.2.3.jar": {
     "jarName": "watut-forge-1.20.1-1.2.3.jar",
